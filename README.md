@@ -64,7 +64,7 @@ Hermes is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 ## Contact
 
-For any questions or support, please contact us at support@hermesurltool.com.
+For any questions or support, please contact us at [The official discord channel](https://discord.gg/r5sQjdPZz8).
 
 ---
 
